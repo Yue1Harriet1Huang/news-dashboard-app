@@ -210,6 +210,6 @@ PR has two checkers.
 
 # Deliverables
 2021-Apr-30: 
-   scrape news - Harriet
-   reddit functions - Henry
+   - scrape news - Harriet
+   - reddit functions - Henry
 
